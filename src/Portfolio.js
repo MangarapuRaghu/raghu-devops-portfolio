@@ -11,7 +11,7 @@ export default function Portfolio() {
         <header className="text-center">
           <h1 className="text-4xl font-bold">Mangarapu Raghu</h1>
           <p className="text-lg mt-2">AWS DevOps Engineer | CI/CD Expert | Cloud Infrastructure Specialist</p>
-          <div className="mt-4 flex justify-center">
+          <div className="mt-4 flex justify-center gap-4">
             <a
               href="https://www.linkedin.com/in/mangarapuraghu"
               target="_blank"
@@ -19,6 +19,13 @@ export default function Portfolio() {
               className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-xl shadow-md"
             >
               <Linkedin size={20} /> Connect on LinkedIn
+            </a>
+            <a
+              href="/resume.pdf"
+              download
+              className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded-xl shadow-md"
+            >
+              📄 Download Resume
             </a>
           </div>
         </header>
