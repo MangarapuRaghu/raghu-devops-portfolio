@@ -3,7 +3,7 @@ import { Linkedin } from "lucide-react";
 
 export default function Portfolio() {
   return (
-    <div className="min-h-screen bg-[url('/krishna-bg.jpg')] bg-cover bg-center text-white p-8">
+<div className="min-h-screen bg-[url('../public/krishna-bg.jpg')] bg-cover bg-center text-white p-8">
       <div className="max-w-4xl mx-auto space-y-8 bg-black/60 p-6 rounded-2xl shadow-xl">
         <header className="text-center">
           <h1 className="text-4xl font-bold">Mangarapu Raghu</h1>
