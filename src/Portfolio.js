@@ -23,10 +23,12 @@ export default function Portfolio() {
         <section>
           <h2 className="text-2xl font-semibold mb-2">About Me</h2>
           <p>
-            I’m a passionate DevOps Engineer with 4+ years of experience in building, deploying, and managing scalable AWS cloud infrastructure. Skilled in CI/CD pipelines, Docker, Kubernetes, and Infrastructure as Code (IaC) tools like Terraform and Ansible.
+            I’m a passionate DevOps Engineer with 4+ years of experience in building, deploying, and managing scalable AWS cloud infrastructure...
           </p>
         </section>
 
+        {/* Other sections... */}
+        
         <footer className="text-center text-sm text-gray-300">
           Radhe Radhe ✨ | Designed with devotion by Mangarapu Raghu
         </footer>
