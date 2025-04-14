@@ -78,7 +78,7 @@ export default function Portfolio() {
         <section>
           <h2 className="text-2xl font-semibold mb-2">Contact</h2>
           <p>
-            📞 +91 9550600914<br />
+            📞 +91 9908760914<br />
             📧 <a href="mailto:mangarapuraghu@gmail.com" className="text-blue-300 underline">mangarapuraghu@gmail.com</a><br />
             🔗 <a
               href="https://www.linkedin.com/in/mangarapuraghu"
